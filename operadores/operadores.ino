@@ -11,6 +11,7 @@ void loop() {
   
   // Cuando ya fueron declaradas y se quieren
   // usar nuevamente, se usan sólo con el nombre.
+  resultado = numero1 % numero2; // Resto de la división entre 20 y 5 -> resultado = 0
   resultado = numero1 + numero2; // resultado = 20 + 5 = 25
   resultado = numero1 - numero2; // resultado = 20 - 5 = 15
   resultado = numero1 * numero2; // resultado = 20 * 5 = 100
