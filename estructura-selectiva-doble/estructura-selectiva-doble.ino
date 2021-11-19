@@ -9,5 +9,4 @@ void loop() {
   } else {
       Serial.println("Impar");
   }
-  delay(2000);
 }
