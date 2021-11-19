@@ -4,8 +4,8 @@ void setup() {
 }
 
 void loop() {
-  int edad = 20;
-  float pi = 3.14;
-  char letra = 'A';
-  bool valor = true; 
+  int edad = 20; // Variable numérica entera.
+  float pi = 3.14; // Variable numérica decimal/real.
+  char letra = 'A'; // Variable tipo carácter.
+  bool valor = true;  // Variable booleana.
 }
