@@ -4,6 +4,8 @@ void setup() {
 }
 
 void loop() {
-  // Código con las acciones principales. 
-  // Se ejecuta infinitamente hasta que la placa se desenergice. 
+  int edad = 20;
+  float pi = 3.14;
+  char letra = 'A';
+  bool valor = true; 
 }
